@@ -1,17 +1,39 @@
-## 👋 프론트엔드 개발자 김지민입니다 
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=18191c&height=200&section=header&text=%20Welcome%20to%20JMK1007's%20Github&fontSize=40" />
+
+<div> 
+  <h4>📚 기술 블로그<h4/>
+  <div style="display:flex; flex-direction:row;">
+      <a href="https://velog.io/@megen07">
+          <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+      </a>
+  </div>
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=megen07)](https://velog.io/@megen07)
+
+</div>
 
 
 <div> 
+  <h4>💻 Main Tech Stack<h4/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react query-f43f5e?style=for-the-badge&logo=react query&logoColor=white"> 
   <img src="https://img.shields.io/badge/recoil-3578e5?style=for-the-badge&logo=recoil&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</div>
+
+
+<br/>
+<div> 
+  <h4>🧠 Algorithm<h4/>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coxld010)](https://solved.ac/coxld010/)
+
   <br>
 </div>
+
+
 
 
 <!--
